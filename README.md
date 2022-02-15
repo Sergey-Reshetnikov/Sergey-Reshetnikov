@@ -8,11 +8,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 🧭 Связаться со мной:
 
-[![website](./img/telegram.svg)](https://t.me/sergeyholi)
+<a href="https://t.me/sergeyholi"><img src="./img/telegram.svg" width="50 " height="50" /></a>
 &nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/)
+<a href="https://twitter.com/"><img src="./img/twitter.svg" width="50 " height="50" /></a>
 &nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://linkedin.com/)
+<a href="https://linkedin.com/"><img src="./img/linkedin.svg" width="50 " height="50" /></a>
 
 
 
