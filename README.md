@@ -8,8 +8,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## Связаться со мной:
 
-[![website](./img/telegram-light.svg)](https://t.me/sergeyholi#gh-light-mode-only)
-[![website](./img/telegram-dark.svg)](https://t.me/sergeyholi#gh-dark-mode-only)
+[![website](./img/telegram-dark.svg)](https://t.me/sergeyholi#gh-light-mode-only)
+[![website](./img/telegram-light.svg)](https://t.me/sergeyholi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
