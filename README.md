@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ## ✏️ Обо мне:
-Меня зовут Сергей, мне 26 лет, живу в Санкт-Петербурге. В прошлом разрабатывал корабли 🚢, а теперь разрабатываю интерфейсы 👨‍💻. Занимаюсь вёрсткой, разработкой сайтов на Wordpress, с применением как "чистого" JavaScript, так и библиотеки React JS. В качестве хобби изучаю английский с носителями языка, катаюсь на лыжах/сноуборде.
+Меня зовут Сергей, мне 26 лет, живу в Санкт-Петербурге. В прошлом разрабатывал корабли 🚢, а теперь разрабатываю интерфейсы 👨‍💻. Занимаюсь вёрсткой, разработкой сайтов с применением как "чистого" JavaScript, так и библиотеки React JS. В качестве хобби изучаю английский с носителями языка, катаюсь на лыжах/сноуборде.
 
 <img align="right" src="./img/cat.gif" width="150 " height="150" />
 
@@ -24,7 +24,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> </a>
